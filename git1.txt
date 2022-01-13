@@ -2,3 +2,12 @@ GIT
 
 git --version
 
+git add "sample1.txt"
+
+git commit -m "added"
+
+git remote add origin https://github.com/sivasangarinagarajan/sample.git
+
+git push -u origin master
+
+fffffffffffff

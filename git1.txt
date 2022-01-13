@@ -10,6 +10,7 @@ git remote add origin https://github.com/sivasangarinagarajan/sample.git
 
 git push -u origin master
 
+git add.
 
-fffffffffffff
+
 
